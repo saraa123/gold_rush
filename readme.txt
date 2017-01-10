@@ -1,1 +1,0 @@
-Welcome to my first public repository So far I’ve learned how to1. Get setup with Git and Githuba. Installing Gitb. Signing up to Github2. Use the **command line**3. Push code to a **repository**4. Merge code usinga. Git mergeb. Github’s pull requests5. Creating README files
